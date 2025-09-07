@@ -1,0 +1,25 @@
+{
+  "name": "crr-e2c-express-sample",
+  "version": "1.0.0",
+  "description": "e2c sample",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joonsol/crr-e2c-express-sample.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joonsol/crr-e2c-express-sample/issues"
+  },
+  "homepage": "https://github.com/joonsol/crr-e2c-express-sample#readme",
+  "dependencies": {
+    "dotenv": "^17.2.2",
+    "express": "^5.1.0",
+    "nodemon": "^3.1.10"
+  }
+}

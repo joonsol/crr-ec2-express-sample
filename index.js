@@ -9,5 +9,5 @@ app.get('/', (req, res) => {
 })
 
 app.listen(port, () => {
-  console.log(`Example app listening on port ${port} : 학생이름:$${stu_name}`)
+  console.log(`Example app listening on port ${port} : 학생이름:${stu_name}`)
 })
